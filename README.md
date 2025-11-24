@@ -21,3 +21,4 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=test&layout=compact)
 
+![Visitor Count](https://komarev.com/ghpvc/?username=test&color=blue)
